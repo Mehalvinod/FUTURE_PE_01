@@ -17,7 +17,7 @@ Requirements:
 - Tone should be professional, warm, and reassuring
 
 Output Format:
-- Headline
+- Headline with Hospital Name [HopeWise]
 - Subheadline
 - Introductory paragraph
 - 3 key benefit points (bulleted)
