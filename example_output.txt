@@ -1,0 +1,237 @@
+================================================================================
+STRUCTURED PROMPT SYSTEM FOR LOCAL BUSINESS WEBSITE COPY
+================================================================================
+
+This system generates professional-grade prompts that can be used with
+AI copywriting tools to create complete website copy for local businesses.
+
+================================================================================
+WEBSITE COPY PROMPTS FOR: Swift Flow Plumbing
+================================================================================
+
+
+================================================================================
+SECTION: HERO SECTION
+================================================================================
+
+Create a compelling hero section for a local business website with the following specifications:
+
+Business Details:
+- Business Name: Swift Flow Plumbing
+- Business Type: Plumbing Services
+- Location: Austin, TX
+- Target Audience: homeowners in Austin who need reliable, professional plumbing services
+- Unique Value Proposition: 24/7 emergency service with guaranteed same-day response for Austin homeowners
+
+Brand Voice: professional yet approachable, emphasizing reliability and trust
+
+Requirements:
+1. Write a powerful headline (8-12 words) that immediately communicates the main benefit
+2. Create a supporting subheadline (15-25 words) that elaborates on the value proposition
+3. Include a clear call-to-action button text (2-4 words)
+4. The copy should be locally relevant and mention Austin, TX
+5. Focus on customer benefits, not just features
+6. Use professional yet approachable, emphasizing reliability and trust tone throughout
+
+Format the output as:
+HEADLINE: [your headline]
+SUBHEADLINE: [your subheadline]
+CTA: [your call-to-action]
+
+
+================================================================================
+SECTION: ABOUT SECTION
+================================================================================
+
+Write an engaging "About Us" section for a local business website:
+
+Business Context:
+- Business Name: Swift Flow Plumbing
+- Business Type: Plumbing Services
+- Location: Austin, TX
+- Years in Business: 15
+- Target Audience: homeowners in Austin who need reliable, professional plumbing services
+
+Brand Voice: professional yet approachable, emphasizing reliability and trust
+
+Requirements:
+1. Write 2-3 paragraphs (150-200 words total) that tell the business story
+2. Emphasize the 15 years of experience and local expertise
+3. Connect emotionally with homeowners in Austin who need reliable, professional plumbing services
+4. Highlight community involvement and local commitment
+5. Build trust and credibility
+6. Use a professional yet approachable, emphasizing reliability and trust tone
+7. End with a statement that reinforces their commitment to customers
+
+The copy should feel authentic and personal, not corporate or generic.
+
+
+================================================================================
+SECTION: SERVICES SECTION
+================================================================================
+
+Create compelling service descriptions for a local business website:
+
+Business Information:
+- Business Name: Swift Flow Plumbing
+- Business Type: Plumbing Services
+- Location: Austin, TX
+
+Services to describe:
+- Emergency Plumbing Repairs
+- Drain Cleaning & Unclogging
+- Water Heater Installation & Repair
+- Leak Detection & Repair
+- Bathroom & Kitchen Remodeling
+
+Key Benefits to Highlight:
+- 24/7 emergency availability
+- Licensed and insured technicians
+- Upfront pricing with no hidden fees
+- Same-day service guaranteed
+- 10-year warranty on installations
+
+Brand Voice: professional yet approachable, emphasizing reliability and trust
+
+Requirements:
+1. For each service, write:
+   - A catchy service title (if needed, improve upon the basic name)
+   - A description (40-60 words) focusing on customer benefits
+   - 2-3 bullet points highlighting specific advantages
+2. Use benefit-driven language (what customers gain, not just what you do)
+3. Include local relevance where appropriate
+4. Maintain professional yet approachable, emphasizing reliability and trust tone throughout
+5. Make each service sound valuable and necessary
+
+Format each service as:
+SERVICE NAME: [title]
+DESCRIPTION: [benefit-focused description]
+BENEFITS:
+- [benefit 1]
+- [benefit 2]
+- [benefit 3]
+
+
+================================================================================
+SECTION: TESTIMONIAL GUIDE
+================================================================================
+
+Create a guide for testimonials that would resonate on this business website:
+
+Business Context:
+- Business Name: Swift Flow Plumbing
+- Business Type: Plumbing Services
+- Target Audience: homeowners in Austin who need reliable, professional plumbing services
+- Location: Austin, TX
+
+Customer Pain Points:
+- Need urgent help with plumbing emergencies
+- Worried about being overcharged
+- Difficulty finding reliable plumbers
+- Concerned about quality of work
+
+Requirements:
+1. Suggest 3 testimonial themes that would be most impactful
+2. For each theme, provide:
+   - What aspect of service it should highlight
+   - The emotional transformation (before/after)
+   - Specific results or outcomes mentioned
+   - Why it would resonate with homeowners in Austin who need reliable, professional plumbing services
+3. Include guidance on local credibility markers (neighborhood, local landmarks)
+4. Suggest questions to ask customers to gather these testimonials
+
+This will help the business collect authentic testimonials that convert visitors.
+
+
+================================================================================
+SECTION: CTA SECTION
+================================================================================
+
+Create a persuasive call-to-action (CTA) section for a local business website:
+
+Business Details:
+- Business Name: Swift Flow Plumbing
+- Business Type: Plumbing Services
+- Location: Austin, TX
+- Target Audience: homeowners in Austin who need reliable, professional plumbing services
+- Main CTA: Call Now for Fast Service
+
+Contact Information:
+- Phone: (512) 555-0199
+- Email: service@swiftflowplumbing.com
+
+Brand Voice: professional yet approachable, emphasizing reliability and trust
+
+Requirements:
+1. Write a compelling CTA headline (6-10 words) that creates urgency or desire
+2. Create supporting copy (25-40 words) that:
+   - Addresses any last objections
+   - Reinforces the main benefit
+   - Makes taking action feel easy and risk-free
+3. Suggest 2 alternative CTA button texts that drive action
+4. Include a trust-building statement (local guarantee, free consultation, etc.)
+5. Use professional yet approachable, emphasizing reliability and trust tone
+
+Format as:
+CTA HEADLINE: [headline]
+SUPPORTING COPY: [supporting text]
+PRIMARY BUTTON: Call Now for Fast Service
+ALTERNATIVE BUTTONS:
+- [option 1]
+- [option 2]
+TRUST STATEMENT: [trust-building element]
+
+
+================================================================================
+SECTION: META DESCRIPTION
+================================================================================
+
+Write an SEO-optimized meta description for a local business website:
+
+Business Information:
+- Business Name: Swift Flow Plumbing
+- Business Type: Plumbing Services
+- Location: Austin, TX
+- Unique Value Proposition: 24/7 emergency service with guaranteed same-day response for Austin homeowners
+- Main Services: Emergency Plumbing Repairs, Drain Cleaning & Unclogging, Water Heater Installation & Repair
+
+Requirements:
+1. Length: 150-160 characters (this is critical for SEO)
+2. Include the business location for local SEO
+3. Include primary keyword (business type + location)
+4. Include a compelling benefit or unique value proposition
+5. Include a subtle call-to-action
+6. Make it click-worthy while being accurate
+
+Provide 2 variations to choose from.
+
+
+================================================================================
+EXPORTING PROMPTS
+================================================================================
+Prompts exported successfully to website_copy_prompts.json
+
+================================================================================
+USAGE INSTRUCTIONS
+================================================================================
+
+To use this system for your business:
+
+1. Create a BusinessProfile with your business information
+2. Initialize WebsiteCopyGenerator with your profile
+3. Generate prompts using generate_all_prompts() or generate_section_prompt()
+4. Copy each prompt to your preferred AI tool (ChatGPT, Claude, etc.)
+5. Review and customize the generated copy for your website
+
+Example code:
+    my_business = BusinessProfile(
+        business_name="Your Business Name",
+        business_type="Your Business Type",
+        location="Your City, State",
+        ...
+    )
+    
+    generator = WebsiteCopyGenerator(my_business)
+    generator.print_prompts()
+    generator.export_prompts("my_prompts.json")
+
